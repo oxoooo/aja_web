@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*通用*/
+*{margin:0;padding:0;}
+li{list-style:none;}
+a{text-decoration:none;outline:none;}
+img{border:0;outline:none;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+html,body{width:100%;height:100%;}
+body{font-family:mont_regular,Arial;}
+.clear{clear:both;}
+
+
+.left{float: left;}
+.right{float: right;}
